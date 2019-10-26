@@ -10,7 +10,23 @@ Te recomiendo que entres a: https://github.com/J-Gallo/bootcamp-list/issues para
 
 - Nuestro frontend usa Next.js para hacer tanto client como server side render
 - Nuestro backend está hecho con Node.js y Express
-
+# Dependencias
+next-css
+next-sass,
+body-parser
+chai
+classnames
+compression
+cookie-parser
+cookie-session
+cors
+del
+express
+mocha
+next
+node-sass
+reac
+react-dom
 ## Desarrollo
 
 Para correr la aplicación en un entorno local:
